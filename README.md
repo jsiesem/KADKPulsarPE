@@ -1,13 +1,13 @@
 # KADKPulsarPE
 Collection of schematics and sketches for the use of a Dyze Pulsar Extruder with a UR10e
 
-## Schematics
+## 01 Schematics
 more info will follow
 
-## 01 Sketches
+## 02 Sketches
 ### Temperature control user-panel
 more info will follow
-### 02 IO Motor driver
+### IO Motor driver
 more info will follow
 
 ## 03 Notes

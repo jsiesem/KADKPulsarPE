@@ -4,12 +4,13 @@ Collection of schematics and sketches for the use of a Dyze Pulsar Extruder with
 ##Schematics
 more info will follow
 
-## Sketches
+## 01 Sketches
 ### Temperature control user-panel
 more info will follow
-### IO Motor driver
+### 02 IO Motor driver
+more info will follow
 
-## Notes
+## 03 Notes
 more info will follow
 
 
